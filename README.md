@@ -30,9 +30,9 @@ const apiKey = 'YOUR_API_KEY_HERE';
 - Save and reload the page to test your setup.
 📸 Screenshots
 <p align="center">
-<img width="324" height="534" alt="Screenshot 2025-07-13 211627" src="https://github.com/user-attachments/assets/53519351-7e14-4d07-a224-48a01fb2df82" />
-<img width="324" height="500" alt="Screenshot 2025-07-13 211532" src="https://github.com/user-attachments/assets/de43765e-3c61-4df4-ba39-defb13ff9012" />
-<img width="317" height="513" alt="Screenshot 2025-07-13 211616" src="https://github.com/user-attachments/assets/a103c0c3-e041-4c73-b69b-37697f1fb724" />
+<img width="250" height="400" alt="Screenshot 2025-07-13 211627" src="https://github.com/user-attachments/assets/53519351-7e14-4d07-a224-48a01fb2df82" />
+<img width="250" height="400" alt="Screenshot 2025-07-13 211532" src="https://github.com/user-attachments/assets/de43765e-3c61-4df4-ba39-defb13ff9012" />
+<img width="250" height="400" alt="Screenshot 2025-07-13 211616" src="https://github.com/user-attachments/assets/a103c0c3-e041-4c73-b69b-37697f1fb724" />
 </p>
 🔧 Possible Enhancements
 - 🌀 Add loading spinner during fetch
