@@ -35,10 +35,12 @@ const apiKey = 'YOUR_API_KEY_HERE';
 <img width="250" height="400" alt="Screenshot 2025-07-13 211616" src="https://github.com/user-attachments/assets/a103c0c3-e041-4c73-b69b-37697f1fb724" />
 </p>
 🔧 Possible Enhancements
+<p>
 - 🌀 Add loading spinner during fetch
 - 🔁 Implement weather data caching for repeated queries
 - 🌍 Support for geolocation-based weather
 - 🌡️ Toggle between Celsius and Fahrenheit
+</p>
 🙋‍♂️ Author
 <p>
 Built by Mohit Kumar with attention to both code structure and visual experience.
