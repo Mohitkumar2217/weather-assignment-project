@@ -22,6 +22,8 @@ A functional weather web app built using the **OpenWeatherMap API**, designed to
 git clone https://github.com/Mohitkumar2217/weather-assignment-project.git
 cd weather-assignment-project
 ```
+
+
 Then, simply open index.html in your browser or use Live Server in VS Code.
 ⚙️ Setup
 - Replace the placeholder in script.js with your own API key from OpenWeatherMap.
@@ -36,10 +38,10 @@ const apiKey = 'YOUR_API_KEY_HERE';
 <p align="left">
 🔧 Possible Enhancements
   
--  🌀 Add loading spinner during fetch
--  🔁 Implement weather data caching for repeated queries
--  🌍 Support for geolocation-based weather
--  🌡️ Toggle between Celsius and Fahrenheit
+- 🌀 Add loading spinner during fetch
+- 🔁 Implement weather data caching for repeated queries
+- 🌍 Support for geolocation-based weather
+- 🌡️ Toggle between Celsius and Fahrenheit
   
 </p>
 <h3>  
