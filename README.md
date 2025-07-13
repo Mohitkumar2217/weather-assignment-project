@@ -36,15 +36,17 @@ const apiKey = 'YOUR_API_KEY_HERE';
 </p>
 🔧 Possible Enhancements
 <p>
-- 🌀 Add loading spinner during fetch
-- 🔁 Implement weather data caching for repeated queries
-- 🌍 Support for geolocation-based weather
-- 🌡️ Toggle between Celsius and Fahrenheit
+<h4>- 🌀 Add loading spinner during fetch</h4>
+<h4>- 🔁 Implement weather data caching for repeated queries</h4>
+<h4>- 🌍 Support for geolocation-based weather</h4>
+<h4>- 🌡️ Toggle between Celsius and Fahrenheit</h4>
 </p>
+---
 🙋‍♂️ Author
 <p>
 Built by Mohit Kumar with attention to both code structure and visual experience.
 </p>
+---
 📄 License
 <p>
 Distributed under the MIT License.
