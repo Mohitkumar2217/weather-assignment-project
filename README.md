@@ -23,7 +23,6 @@ git clone https://github.com/Mohitkumar2217/weather-assignment-project.git
 cd weather-assignment-project
 ```
 
-
 Then, simply open index.html in your browser or use Live Server in VS Code.
 ⚙️ Setup
 - Replace the placeholder in script.js with your own API key from OpenWeatherMap.
