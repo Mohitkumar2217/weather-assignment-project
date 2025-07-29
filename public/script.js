@@ -12,8 +12,8 @@ const weatherSummaryImg = document.querySelector('.weather-summary-img');
 const currentDateText = document.querySelector('.current-date-txt');
 const forecastsItemsContainer = document.querySelector('.forcast-items-containar');
 
-
 const API_KEY = '14a425f3384254d46af6e475ed98648d'; // Replace with your actual API key
+
 
 searchBtn.addEventListener('click',()=> {
     if(cityInput.value != '') {
